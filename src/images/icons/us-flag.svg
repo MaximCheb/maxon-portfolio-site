@@ -1,0 +1,10 @@
+<svg id="svg" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <rect x="642.68" y="-2.7662" width="9.4004" height="1.1363" rx="108.46" ry="1.1363" fill="#d90000" stroke-width=".29858" style="paint-order:markers fill stroke"/>
+ <g transform="scale(.066667)">
+  <rect width="240" height="240" rx="52.062" ry="53.672" fill="#025" stroke-width=".18095" style="paint-order:markers fill stroke"/>
+  <path d="m95 0v95h-95v50h95v95h50v-95h95v-50h-95v-95z" fill="#f9f9f9" stroke-width=".27791" style="paint-order:markers fill stroke"/>
+  <path d="m11.836 19.527c-7.4 9.266-11.836 21.151-11.836 34.145v6.4277l85.219 59.898-85.219 59.891v6.4394c0 12.99 4.4338 24.872 11.83 34.137l108.17-76.02 108.16 76.027c7.4-9.266 11.836-21.151 11.836-34.145v-6.4277l-85.219-59.898 85.219-59.891v-6.4395c0-12.99-4.4338-24.872-11.83-34.137l-108.17 76.02z" fill="#f9f9f9" stroke-width=".28824" style="paint-order:markers fill stroke"/>
+  <path d="m230.9 23.307-114.42 80.424-109.48-76.939c-4.4308 7.9017-7.0039 17.061-7.0039 26.881v0.74414l97.268 68.406-97.051 67.973c0.77779 9.7969 4.0765 18.818 9.2441 26.4l114.99-79.818 108.37 76.129c4.5357-7.9688 7.1777-17.234 7.1777-27.178v-0.41406l-93.91-68.559 93.725-67.518c-0.66863-9.8171-3.8348-18.893-8.9121-26.531z" fill="#800000" stroke-width=".19185" style="paint-order:markers fill stroke"/>
+  <path d="m104.17 0v104.17h-104.17v31.652h104.17v104.17h31.652v-104.17h104.17v-31.652h-104.17v-104.17z" fill="#800000" stroke-width=".17594" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>

@@ -88,6 +88,13 @@ const techs=[
         link: ""
     },
     {
+        origin: "wildfly",
+        icon: "/icons/tech/wildfly.svg",
+        status: "forget",
+        value: 20,
+        link: ""
+    },
+    {
         origin: "npm",
         icon: "/icons/tech/java-script.svg",
         link: ""

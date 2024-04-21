@@ -38,10 +38,10 @@ const projects = [
 		skills: 'React, PHP, MySql',
 		gitLink: 'https://github.com',
         ready: 25.0,
-        state: "statePreMVP",
+        state: "stateFreezed",
         tech: [
-            "java17",
-            "flutter"
+            "java8",
+            "wildfly"
         ],
         roles:[
             "roleProjectManager",
@@ -58,9 +58,10 @@ const projects = [
         title: 'Game concept creator',
 		img: "images/projects/gcc7.png",
 		gitLink: 'https://github.com',
-        state: "statePreMVP",
+        state: "statePrePreMVP",
         tech: [
-            "reactjs"
+            "flutter", "dart",
+            "spring", "java17"
         ],
         roles:[
             "roleProjectManager",
@@ -69,6 +70,24 @@ const projects = [
             "rolePhpDeveloper",
             "roleDbDeveloper"
         ],
+	},
+    {
+        origin:"potfolio",
+        id:3,
+        uuid:"018eaf05-6dfb-73a8-9252-2585cbac8603",
+        title: 'My portfolio site',
+		img: "images/projects/gcc7.png",
+		gitLink: "https://github.com/MaximCheb/maxon-portfolio-site",
+        state: "stateMVP",
+        tech: [
+            "reactjs","javascript"
+        ],
+        roles:[
+            "roleProjectManager",
+            "roleFrontendDeveloper"
+        ],
+        applink: ["current:/home"],
+        releases: [{version:"0.0.0",caption:"init"},{}]
 	},
 	// {
 	// 	title: 'Dating app',

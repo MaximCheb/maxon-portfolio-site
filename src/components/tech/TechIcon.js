@@ -10,7 +10,7 @@ const TechIcon = ({origin}) => {
     const tech = techs.find((t) => t.origin === origin)
     console.log("origin")
     return (
-        <a className="tech-icon" href={tech.link}>
+        <a className="tech-icon" href={tech.link ? tech.link : '#'}>
             <img src={tech.icon} alt={tech.origin} />
             <div className="tech-icon-overlay">
                 <div className="tech-icon-text">{tech.origin}</div>

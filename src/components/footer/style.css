@@ -29,5 +29,5 @@
 }
 
 .social-icon{
-	width: 28px;
+	width: var(--font-strong-title);
 }

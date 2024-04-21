@@ -7,16 +7,6 @@ const techs=[
         link: ""
     },
     {
-        origin: "kubernetes",
-        icon: "/icons/tech/kubernetes.svg",
-        link: ""
-    },
-    {
-        origin: "ubuntu",
-        icon: "/icons/tech/ubuntu.svg",
-        link: ""
-    },
-    {
         origin: "java8",
         icon: "/icons/tech/java8.svg",
         link: ""
@@ -44,8 +34,6 @@ const techs=[
     {
         origin: "php",
         icon: "/icons/tech/php.svg",
-        status: "forget",
-        value: 11,
         link: ""
     },
     {
@@ -64,39 +52,28 @@ const techs=[
         link: ""
     },
     {
-        origin: "mongodb",
-        icon: "/icons/tech/mongodb.svg",
-        link: ""
-    },
-    {
-        origin: "redis",
-        icon: "/icons/tech/redis.svg",
+        origin: "spring",
+        icon: "/icons/tech/spring-boot.svg",
         link: ""
     },
     {
         origin: "flutter",
         icon: "/icons/tech/flutter.svg",
-        status: "forget",
-        value: 20,
         link: ""
     },
     {
         origin: "reactjs",
         icon: "/icons/tech/reactjs.svg",
-        status: "forget",
-        value: 20,
         link: ""
     },
     {
         origin: "wildfly",
         icon: "/icons/tech/wildfly.svg",
-        status: "forget",
-        value: 20,
         link: ""
     },
     {
         origin: "npm",
-        icon: "/icons/tech/java-script.svg",
+        icon: "/icons/tech/npm.svg",
         link: ""
     },
     {
@@ -107,15 +84,11 @@ const techs=[
     {
         origin: "gradle",
         icon: "/icons/tech/gradle.svg",
-        status: "learn",
-        value: 30,
         link: ""
     },
     {
         origin: "yii2",
         icon: "/icons/tech/yii2.svg",
-        status: "forget",
-        value: 5,
         link: ""
     },
     

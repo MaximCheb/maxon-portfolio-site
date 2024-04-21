@@ -238,7 +238,25 @@
 	
 	.header__title strong {
 		font-size: 28px;
-		font-weight: 700;
+		font-weight: 600;
+	}
+
+	.education_title {	
+		font-size: 22px;
+	}
+	
+	.education_title strong {
+		font-size: 24px;
+		font-weight: 600;
+	}
+	
+	.education_text {
+		font-size: 18px;
+	}
+	
+	.education_text h1 {
+		font-size: 22px;
+		font-weight: 600;
 	}
 }
 

@@ -11,7 +11,7 @@ function Header() {
         <header className="header">
             <div className="double-container">
                 <div className="double-column-small">
-                    <img src='/images/my_title_image_2.png' className='header-profile-photo' alt='#'/>
+                    <img src='/images/my_title_image.png' className='header-profile-photo' alt='#'/>
                 </div>
                 <div className="double-column-personal-big">
                     <div className="header__wrapper">

@@ -5,13 +5,12 @@ const projects = [
         uuid:"4a870588-98a9-4720-830d-d971b0d03cc7",
         title: "projectHotelTitle",
 		img: "/images/projects/hotel1.jpg",
-        slider:[
-            {
-                img:"/images/projects/",
-                caption:"projectHotelSlider1"
-            }
-        ],
-        files:[],
+        // slider:[
+        //     {
+        //         img:"/images/projects/",
+        //         caption:"projectHotelSlider1"
+        //     }
+        // ],
         roles:[
             "roleProjectManager",
             "roleSystemAnalitic",
@@ -20,21 +19,23 @@ const projects = [
             "roleDbDeveloper"
         ],
         description:"projectHotelDescription",
+        date:"projectHotelDates",
 		applink: [],
         gitLink: 'https://github.com',
         tech: [
             "yii2","php","mysql"
         ],
         ready: 75.0,
-        dates:"projectHotelDates",
         state: "stateFreezed",
 	},
 	{
         origin:"runa",
         id:1,
         uuid:"7d776372-c6c3-41b9-8fad-ad596bc9fd41",
-        title: 'RunaWFE internal storage bot',
+        title: 'projectRunaTitle',
 		img: "images/projects/runawfe2.png",
+        description:"projectRunaDescription",
+        date:"projectRunaDates",
 		skills: 'React, PHP, MySql',
 		gitLink: 'https://github.com',
         ready: 25.0,
@@ -44,21 +45,19 @@ const projects = [
             "wildfly"
         ],
         roles:[
-            "roleProjectManager",
-            "roleSystemAnalitic",
-            "roleDesigner",
-            "rolePhpDeveloper",
-            "roleDbDeveloper"
+            "roleJavaDeveloper"
         ],
 	},
 	{
         origin:"disdoc",
         id:2,
         uuid:"9797a07c-89d6-4b8a-bceb-cc2917b61ddb",
-        title: 'Game concept creator',
+        title: 'projectDisdocTitle',
+        description:"projectDisdocDescription",
+        date:"projectDisdocDates",
 		img: "images/projects/gcc7.png",
 		gitLink: 'https://github.com',
-        state: "statePrePreMVP",
+        state: "statePrototype",
         tech: [
             "flutter", "dart",
             "spring", "java17"
@@ -72,11 +71,13 @@ const projects = [
         ],
 	},
     {
-        origin:"potfolio",
+        origin:"portfolio",
         id:3,
         uuid:"018eaf05-6dfb-73a8-9252-2585cbac8603",
-        title: 'My portfolio site',
-		img: "images/projects/gcc7.png",
+        title: 'projectPortfolioTitle',
+        description:"projectPortfolioDescription",
+        date:"projectPortfolioDates",
+		img: "images/projects/portfolio.png",
 		gitLink: "https://github.com/MaximCheb/maxon-portfolio-site",
         state: "stateMVP",
         tech: [
@@ -86,30 +87,9 @@ const projects = [
             "roleProjectManager",
             "roleFrontendDeveloper"
         ],
-        applink: ["current:/home"],
+        applink: ["/"],
         releases: [{version:"0.0.0",caption:"init"},{}]
 	},
-	// {
-	// 	title: 'Dating app',
-	// 	img: project04,
-	// 	imgBig: project04Big,
-	// 	skills: 'React Native',
-    //     ready: 25.0,
-	// },
-	// {
-	// 	title: 'Landing',
-	// 	img: project05,
-	// 	imgBig: project05Big,
-	// 	skills: 'HTML, SCSS, JS',
-    //     ready: 25.0,
-	// },
-	// {
-	// 	title: 'Gaming community',
-	// 	img: project06,
-	// 	imgBig: project06Big,
-	// 	skills: 'React, PHP, MySql',
-    //     ready: 25.0,
-	// },
 ];
 
 export {projects}

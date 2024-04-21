@@ -17,6 +17,7 @@
     "role3Designer":"3D designer",
     "rolePhpDeveloper":"PHP developer",
     "roleDbDeveloper":"Database developer",
+    "roleJavaDeveloper":"Java developer",
 
     "NavbarHome":"Home",
     "NavbarProjects":"Projects",
@@ -34,6 +35,36 @@
     "AppDevTitle":"App develop",
     "SystemAnaliticTitle":"System analitic",
     "DesignTitle":"Design",
+
+    "ProjectsTitle":"Projects",
+    "ProjectsDescription":"Here are my projects that I worked on while studying or researching new technologies.",
+        
+    "ProjectDescription":"Description",
+    "ProjectDates":"Project dates",
+    "ProjectRoles":"Roles in project",
+    "ProjectTechhology":"Used techhologies",
+    "ProjectStatus":"Project status",
+        
+    "projectHotelTitle":"RS-DC hotel site",
+    "projectHotelDescription":"A small project being developed as part of an application development course in the 4th year of the Bachelor's degree. It was made in a team of 4 people, but I was the main driving force in it.",
+    "projectHotelDates":"December 2020 - January 2021",
+
+    "projectRunaTitle":"RunaWFE internal storage bot",
+    "projectRunaDescription":"A bot was developed for the internal storage of the RunaWFE business process management system. The work was done as part of the graduation thesis. As a result, some of the work was rejected, but I received feedback and some money.",
+    "projectRunaDates":"March 2021 - June 2021",
+
+    "projectDisdocTitle":"Game concept creator",
+    "projectDisdocDescription":"Applications for creating a video game concept. It was done as part of my master's thesis, to study the development of a full-fledged mobile application with a server component. Due to the low experience in the client component and the selected application design pattern, it was not completed. It remains to finish several sections and refactor the code.",
+    "projectDisdocDates":"April 2022 - May 2023",
+
+    "projectPortfolioTitle":"My portfolio site",
+    "projectPortfolioDescription":"A website without a backend with my professional achievements. It is necessary to add links to it on social networks. and also on HH.ru . On it, I study java script and ReactJS, as well as remember html and css.",
+    "projectPortfolioDates":"March 2024 - till now",
+
+    "stateFreezed":"Freezed",
+    "statePrototype":"Prototype",
+    "statePrePreMVP":"Pre MVP",
+    "stateMVP":"MVP",
 
     "univercity1":"National Research University of Electronic Technology",
     "education1Date":"September 2017 - August 2021", 

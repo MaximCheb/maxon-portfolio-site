@@ -1,0 +1,8 @@
+<svg id="svg" width="16" height="16" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <rect x="642.68" y="-2.7662" width="9.4004" height="1.1363" rx="108.46" ry="1.1363" fill="#d90000" stroke-width=".29858" style="paint-order:markers fill stroke"/>
+ <g transform="scale(.066667)">
+  <path d="m52.062 0c-28.842 0-52.062 23.938-52.062 53.672v26.328h240v-26.328c0-29.734-23.22-53.672-52.062-53.672z" fill="#f9f9f9" stroke-width=".077408" style="paint-order:markers fill stroke"/>
+  <rect transform="scale(1,-1)" y="-160" width="240" height="80" rx="0" ry="0" fill="#3737c8" stroke-width=".075844" style="paint-order:markers fill stroke"/>
+  <path d="m0 160v26.328c0 29.734 23.22 53.672 52.062 53.672h135.88c28.842 0 52.062-23.938 52.062-53.672v-26.328z" fill="#d40000" stroke-width=".075844" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>

@@ -1,0 +1,104 @@
+{
+    "title":"Personal portfolio",
+    "projects":"Projects",
+
+    "headerWelcome":"Welcome, I'm Max Chebola",
+    "headerTitle":"I want to create applications that are useful for people",
+    "headerDescription":"Java backend developer",
+    "headerText":"I like to explore new technologies. I've lived near Moscow all my life.",
+    "headerAge1":"I am ",
+    "headerAge2":" years old",
+    "headerDownloadCV":"Download CV",
+
+    "roleProjectManager":"Project manager",
+    "roleSystemAnalitic":"System analitic",
+    "roleUIDesigner":"UI designer",
+    "roleDesigner":"Designer",
+    "role3Designer":"3D designer",
+    "rolePhpDeveloper":"PHP developer",
+    "roleDbDeveloper":"Database developer",
+    "roleJavaDeveloper":"Java developer",
+
+    "NavbarHome":"Home",
+    "NavbarProjects":"Projects",
+    "NavbarContacts":"Contacts",
+    "EducationTitle":"Higher education",
+    "WorkTitle":"Works",
+    "SkillsTitle":"Skills",
+
+    "EducationDescription":"I have completed a master's degree in information technology. I took several additional courses, but not all of them were completed, as they did not fit my main activity",
+    "WorkDescription":"I didn't work too long because I was getting a college degree. The university where I studied was too far from the center of Moscow, where the main IT companies of our country are located",
+    "SkillsDescription":"I'm constantly trying to learn something new, so I'm slowly forgetting, but here are my most frequently used knowledge and skills in my work and hobbies",
+
+    "BackendTitle":"Backend",
+    "FrontendTitle":"Frontend",
+    "AppDevTitle":"App develop",
+    "SystemAnaliticTitle":"System analitic",
+    "DesignTitle":"Design",
+
+    "ProjectsTitle":"Projects",
+    "ProjectsDescription":"Here are my projects that I worked on while studying or researching new technologies.",
+        
+    "ProjectDescription":"Description",
+    "ProjectDates":"Project dates",
+    "ProjectRoles":"Roles in project",
+    "ProjectTechhology":"Used techhologies",
+    "ProjectStatus":"Project status",
+        
+    "projectHotelTitle":"RS-DC hotel site",
+    "projectHotelDescription":"A small project being developed as part of an application development course in the 4th year of the Bachelor's degree. It was made in a team of 4 people, but I was the main driving force in it.",
+    "projectHotelDates":"December 2020 - January 2021",
+
+    "projectRunaTitle":"RunaWFE internal storage bot",
+    "projectRunaDescription":"A bot was developed for the internal storage of the RunaWFE business process management system. The work was done as part of the graduation thesis. As a result, some of the work was rejected, but I received feedback and some money.",
+    "projectRunaDates":"March 2021 - June 2021",
+
+    "projectDisdocTitle":"Game concept creator",
+    "projectDisdocDescription":"Applications for creating a video game concept. It was done as part of my master's thesis, to study the development of a full-fledged mobile application with a server component. Due to the low experience in the client component and the selected application design pattern, it was not completed. It remains to finish several sections and refactor the code.",
+    "projectDisdocDates":"April 2022 - May 2023",
+
+    "projectPortfolioTitle":"My portfolio site",
+    "projectPortfolioDescription":"A website without a backend with my professional achievements. It is necessary to add links to it on social networks. and also on HH.ru . On it, I study java script and ReactJS, as well as remember html and css.",
+    "projectPortfolioDates":"March 2024 - till now",
+
+    "stateFreezed":"Freezed",
+    "statePrototype":"Prototype",
+    "statePrePreMVP":"Pre MVP",
+    "stateMVP":"MVP",
+
+    "univercity1":"National Research University of Electronic Technology",
+    "education1Date":"September 2017 - August 2021", 
+    "educationDate1":"September 2017 - August 2021",
+    "educationTitle1":"Applied Computer Science, Bachelor's degree",
+    "educationDescription1":"The purpose of this training program was to provide highly qualified IT specialists in the field of corporate governance who are able to research, develop, implement and maintain information systems for industrial, technological, organizational, managerial and economic spheres of government and business activities.",
+    "educationGeo1":"Moscow",
+    "educationDate2":"September 2021 - August 2023",
+    "educationTitle2":"Applied Computer Science, Master's degree",
+    "educationDescription2":"The curriculum deepened the knowledge gained in the bachelor's degree. Upon completion of the training program, a specialist should be able to develop, implement and maintain corporate governance systems at enterprises of various innovative industries.",
+
+    "course1":"Udemy",
+    "courseDate1":"September 2022 - January 2023",
+    "courseTitle1":"Learning Flutter (Online)",
+    "courseDescription1":"Studied Flutter for mobile app development. it was necessary to write a master's thesis. Flutter development is not my main profile, so I have knowledge within the framework of this course",
+    "courseNet":"Online",
+    
+    "work1Title":"Process technology",
+    "workDate1":"February 2021 - June 2021",
+    "work1":"Intern-developer",
+    "workDescription1":"Remote development of an automatic task executor for the internal data warehouse open-source BPMS RunaWFE Free during the thesis",
+
+    "work2Title":"Russian Export Center",
+    "work2Date":"November 2022 - till now",
+    "workDate2":"November 2022- October 2023",
+    "work2":"Intern in the internal development department in the project «Single Window»",
+    "workDescription2":"I wrote code in JAVA 11, performed tasks on developing services on Spring boot, and was engaged in auditing technical documentation",
+
+    "work3":"Junior Developer in the project «Single Window»",
+    "workDate3":"October 2023 - till now",
+    "workDescription3":"Refine microservices written using Spring and Java 11 , write sql flyway migrations for PostgreSQL",
+    
+    "contactsTitle":"Contacts",
+    "contactsLocationTitle":"Location",
+    "contactsLocation":"Russia, Moscow",
+    "contactsEmailTitle":"Email"
+}
